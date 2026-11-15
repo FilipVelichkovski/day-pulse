@@ -1,0 +1,6 @@
+{
+  "name": "DayPulse",
+  "description": "WireGuard VPN-aware daily activity tracker dashboard and home screen widget showing how your day was spent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
